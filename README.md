@@ -28,6 +28,7 @@ g++ *.o -o [name] -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
 * Menu:
 
 <img src="ScreenShots/MenuScreenShot.png" alt="Menu" width="400" height="300"/>
+
 * Game:
 
 <img src="ScreenShots/GameScreenShot.png" alt="Menu" width="400" height="300"/>
