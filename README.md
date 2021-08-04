@@ -23,3 +23,11 @@ g++ *.o -o [name] -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
 * <kbd>D</kbd> : move right
 * <kbd>Space</kbd> : Pause/Resume
 * <kbd>Esc</kbd> : Exit
+
+## Screenshots
+* Menu:
+
+<img src="ScreenShots/MenuScreenShot.png" alt="Menu" width="400" height="300"/>
+* Game:
+
+<img src="ScreenShots/GameScreenShot.png" alt="Menu" width="400" height="300"/>
