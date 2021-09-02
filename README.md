@@ -19,8 +19,8 @@ g++ *.o -o [name] -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
 
 ## Controls
 
-* <kbd>A</kbd> : move left
-* <kbd>D</kbd> : move right
+* <kbd>A</kbd> : Move left
+* <kbd>D</kbd> : Move right
 * <kbd>Space</kbd> : Pause/Resume
 * <kbd>Esc</kbd> : Exit
 
