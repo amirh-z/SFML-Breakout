@@ -1,6 +1,6 @@
 # Breakout
 
-This game has been written in C++ using SFML as a university project inspired by its classic Atari version.
+This game has been written in C++ using SFML inspired by its classic Atari version as a university project for the course "Fundamentals of Programming".
 
 ## Prerequisites
 Make sure you have SFML installed on your device.
